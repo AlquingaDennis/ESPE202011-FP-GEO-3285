@@ -165,6 +165,5 @@ public class WS17MatrixTransposition {
                 }
             }
         }
-        System.out.println("");
- }
-        }
+    } 
+}
