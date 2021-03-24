@@ -19,7 +19,7 @@ public class BinarySearch {
     public static void main(String[] args) {
     
         int num[]={8,2,4,6,16,31,10,3,6};
-        int position, search=2;
+        int position, search=8;
  
         // We look for the position of the first value
         // If the array is not ordered it can give us a wrong value
