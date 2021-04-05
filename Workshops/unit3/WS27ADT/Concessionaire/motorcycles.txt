@@ -1,0 +1,4 @@
+
+kawasaki,black,2020,11000,5000
+kawasaki,black,2020,11000,5000
+kawasaki,black,2020,11000,5000
